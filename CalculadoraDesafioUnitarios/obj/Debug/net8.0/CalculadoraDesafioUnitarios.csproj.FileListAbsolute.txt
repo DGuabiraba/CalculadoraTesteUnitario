@@ -1,0 +1,14 @@
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\bin\Debug\net8.0\CalculadoraDesafioUnitarios.exe
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\bin\Debug\net8.0\CalculadoraDesafioUnitarios.deps.json
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\bin\Debug\net8.0\CalculadoraDesafioUnitarios.runtimeconfig.json
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\bin\Debug\net8.0\CalculadoraDesafioUnitarios.dll
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\bin\Debug\net8.0\CalculadoraDesafioUnitarios.pdb
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\obj\Debug\net8.0\CalculadoraDesafioUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\obj\Debug\net8.0\CalculadoraDesafioUnitarios.AssemblyInfoInputs.cache
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\obj\Debug\net8.0\CalculadoraDesafioUnitarios.AssemblyInfo.cs
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\obj\Debug\net8.0\CalculadoraDesafioUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\obj\Debug\net8.0\CalculadoraDesafioUnitarios.dll
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\obj\Debug\net8.0\refint\CalculadoraDesafioUnitarios.dll
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\obj\Debug\net8.0\CalculadoraDesafioUnitarios.pdb
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\obj\Debug\net8.0\CalculadoraDesafioUnitarios.genruntimeconfig.cache
+C:\Users\davi_\source\repos\CalculadoraDesafioUnitarios\obj\Debug\net8.0\ref\CalculadoraDesafioUnitarios.dll
